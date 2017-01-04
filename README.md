@@ -19,6 +19,7 @@
 
 ## Courses & Tutorials:
 
+- https://www.fuzzysecurity.com/index.html (wide-ranging tutorials - from exploitation to malware analysis & RFID)
 - https://www.udemy.com (you can find some introductory security courses here)
 - http://pwnable.kr/ (introductory to advanced CTF challenges)
 - https://trailofbits.github.io/ctf/ (CTF guidebook)
