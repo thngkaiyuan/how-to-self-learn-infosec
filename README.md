@@ -32,5 +32,6 @@
 - https://www.fireeye.com/blog/threat-research.html
 - https://googleprojectzero.blogspot.sg/
 - http://brutelogic.com.br/blog/ (XSS stuff)
+- https://fuzzing.info/ (on fuzzing)
 - https://github.com/tjunxiang92/Android-Vulnerabilities
 - https://github.com/ctfs (CTF writeups)
