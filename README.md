@@ -19,6 +19,7 @@
 
 ## Courses & Tutorials:
 
+- http://liveoverflow.com/ (videos on CTF challenges, infosec topics)
 - https://fuzzing-project.org/ (basic fuzzing tutorials + resources)
 - https://www.fuzzysecurity.com/index.html (wide-ranging tutorials - from exploitation to malware analysis & RFID)
 - https://www.udemy.com (you can find some introductory security courses here)
@@ -30,6 +31,7 @@
 
 ## Useful Reading Materials:
 
+- https://www.utc.edu/center-information-security-assurance/pdfs/course-paper-5600-rsa.pdf (attacks on RSA)
 - https://www.fireeye.com/blog/threat-research.html
 - https://googleprojectzero.blogspot.sg/
 - http://brutelogic.com.br/blog/ (XSS stuff)
